@@ -1,0 +1,10 @@
+apiVersion: v2
+name: flannel
+version: 0.0.1
+appVersion: 0.17.0
+description: Kubernetes Networking Solution
+keywords:
+  - kubernetes
+  - flannel
+  - cni
+  - networking
